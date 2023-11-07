@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "xmldoc": "1.0.0"
+    "xmldoc": "1.0.0",
+    "nodemon": "3.0.0"
   }
 }
